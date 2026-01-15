@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class MagazzinoApplication {
     public static void main(String[] args) {
-        SpringApplication.run(DemoApplication.class, args);
+        SpringApplication.run(MagazzinoApplication.class, args);
     }
 }
 
@@ -18,6 +18,6 @@ public class DemoApplication {
  * mvn spring-boot:run
  * .
  * su CHROME
- * http://localhost:8080/saluto
+ * http://localhost:8080/prodotti
  * 
  */

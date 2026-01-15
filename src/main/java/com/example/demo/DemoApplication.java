@@ -16,7 +16,7 @@ public class DemoApplication {
  * 
  * mvn clean
  * mvn spring-boot:run
- * 
+ * .
  * su CHROME
  * http://localhost:8080/saluto
  * 

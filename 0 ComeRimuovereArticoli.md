@@ -8,3 +8,5 @@ http://localhost:8080/prodotti/1/movimento?qta=5&tipo=SCARICO&note=Ordine123
 5 è quantita da rimuovere
 SCARICO indica che voglio rimuovere prodotto
 CARICO li carica ovviamente
+
+.

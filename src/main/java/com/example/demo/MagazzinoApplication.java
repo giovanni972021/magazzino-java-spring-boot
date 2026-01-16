@@ -9,15 +9,3 @@ public class MagazzinoApplication {
         SpringApplication.run(MagazzinoApplication.class, args);
     }
 }
-
-/*
- * per TESTARLO
- * nel TERMINALE
- * 
- * mvn clean
- * mvn spring-boot:run
- * .
- * su CHROME
- * http://localhost:8080/prodotti
- * 
- */
